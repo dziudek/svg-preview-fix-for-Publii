@@ -1,0 +1,15 @@
+{
+  "name": "svg-preview-fix-generator",
+  "version": "1.0.0",
+  "description": "",
+  "main": "svg-preview-fix.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Tomasz Dziuda <dziudek@gmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "chai": "^4.1.2",
+    "mocha": "^4.0.1"
+  }
+}
